@@ -10,7 +10,7 @@
     <application
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher"
-        android:label="calculate_speed">
+        android:label="Speed Tracker">
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
